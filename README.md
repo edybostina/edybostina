@@ -9,7 +9,7 @@
 
 - I'm building a **Data Structures** repo — clean, beginner-friendly, and open to all!  
 - Whether you're brushing up for interviews or just love a good linked list, check it out!
-- I am working on my own website using react and github pages. [Check it out!](https://edybostina.github.io/portfolio)
+- I am working on my own website using react and github pages. [Check it out!](https://edybostina.github.io/portofolio/#/)
 
 ---
 
