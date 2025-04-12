@@ -9,6 +9,7 @@
 
 - I'm building a **Data Structures** repo — clean, beginner-friendly, and open to all!  
 - Whether you're brushing up for interviews or just love a good linked list, check it out!
+- I am working on my own website using react and github pages. [Check it out!](https://edybostina.github.io/portfolio)
 
 ---
 
@@ -35,8 +36,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=edybostina&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
