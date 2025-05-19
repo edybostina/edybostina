@@ -1,15 +1,16 @@
 ### 👋 Hey there, I'm Eddie!
 
  - I'm a **Computer Science** student at **UPB (Politehnica Bucharest)**
- - Passionate about AI, mathematics and a little bit of gaming
+ - I like AI, mathematics and a little bit of gaming
 
 ---
 
 ### 🚧 Work in Progress
 
-- I'm building a **Data Structures** repo — clean, beginner-friendly, and open to all!  
-- Whether you're brushing up for interviews or just love a good linked list, check it out!
-- I am working on my own website using react and github pages. [Check it out!](https://edybostina.github.io/portofolio/#/)
+- I'm making a **Matrix Library** repo — easy to use and open to everyone!
+- I might add more linear algebra tools later :P
+- If you need a straightforward matrix library or want to learn, take a look!
+- I'm also building my personal website with React and GitHub Pages. [Check it out!](https://edybostina.github.io/portofolio/#/)
 
 ---
 
